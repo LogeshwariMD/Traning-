@@ -3,7 +3,7 @@
 **Your Name:**
 _Logeshwari_
 
-**Register Number**
+**Register Number:**
 _713322AD057_
 
 ## Pharse _ 1
