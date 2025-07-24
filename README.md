@@ -8,7 +8,7 @@ _713322AD057_
 
 ## Pharse _ 1
 
-### Levels Completed: 18
+### Levels Completed: 23
 -----
 
 ### Incomplete Tasks in Levels:
@@ -33,6 +33,8 @@ _713322AD057_
 |Level_16 |  None              |
 |Level_17 |  None              |
 |Level_18 |  Task_8            |
+|Level_19 |  Task_7, Task_9    |
+|Level_20 |  None              |
 |Level_21 |  Task_6            |
 |Level_23 |  None              |
 
